@@ -12,7 +12,7 @@ Before starting, make sure you have:
 - Your website files ready to be deployed
 
 ## Architecture Diagram
-![AWS Architecture Diagram](aws_architecture_diagram.png)
+![AWS Architecture Diagram](static-website-AWS.png)
 
 ## Walkthrough
 
