@@ -1,5 +1,5 @@
 # AWS Static Website Hosting With CICD
-![banner](honeypot.png)
+![banner](aws-static-hosting-banner.png)
 
 This repository contains instructions for setting up a static website on AWS with Continuous Integration and Continuous Deployment (CICD) using AWS services like S3, CloudFront, ACM, Route 53, and CodePipeline. 
 
