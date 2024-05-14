@@ -1,1 +1,1 @@
-# AWS-Static-Website-Hosting-With-CICD
+# AWS Static Website Hosting With CICD
